@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '25810'
     url: http://www.gutenberg.org/2009/agents/25810
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23343#Lines-in-Pleasant-Places--Being-the-Aftermath-of-an-Old-Angler
 gutenberg_issued: '2007-11-05'
 gutenberg_type: Text
 identifiers:
