@@ -1,0 +1,31 @@
+_repo: Lines-in-Pleasant-Places--Being-the-Aftermath-of-an-Old-Angler_23343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Senior, William
+    aliases:
+    - Hardy, Uncle
+    - Black Palmer
+    - Senior, W. (William)
+    - Red Spinner
+    birthdate: 1838
+    deathdate: 1920
+    gutenberg_agent_id: '25810'
+    url: http://www.gutenberg.org/2009/agents/25810
+description: ''
+gutenberg_issued: '2007-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Fishing'
+title: 'Lines in Pleasant Places: Being the Aftermath of an Old Angler'
+url: http://www.gutenberg.org/ebooks/23343
